@@ -1,0 +1,5 @@
+E:\LINQ\DashBoard\DataLayer\bin\Debug\DataLayer.dll
+E:\LINQ\DashBoard\DataLayer\bin\Debug\DataLayer.pdb
+E:\LINQ\DashBoard\DataLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\LINQ\DashBoard\DataLayer\obj\Debug\DataLayer.dll
+E:\LINQ\DashBoard\DataLayer\obj\Debug\DataLayer.pdb

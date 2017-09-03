@@ -1,0 +1,9 @@
+E:\LINQ\DashBoard\DashBoard\obj\Debug\ResolveAssemblyReference.cache
+E:\LINQ\DashBoard\DashBoard\bin\DashBoard.dll
+E:\LINQ\DashBoard\DashBoard\bin\DashBoard.pdb
+E:\LINQ\DashBoard\DashBoard\bin\DataLayer.dll
+E:\LINQ\DashBoard\DashBoard\bin\Telerik.Web.UI.xml
+E:\LINQ\DashBoard\DashBoard\bin\DataLayer.pdb
+E:\LINQ\DashBoard\DashBoard\obj\Debug\DashBoard.dll
+E:\LINQ\DashBoard\DashBoard\obj\Debug\DashBoard.pdb
+E:\LINQ\DashBoard\DashBoard\bin\Telerik.Web.UI.dll
